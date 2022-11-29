@@ -36,3 +36,4 @@ release: test
 
 plan:
 	$(TERRAFORM) plan
+	
